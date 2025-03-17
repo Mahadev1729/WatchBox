@@ -2,8 +2,9 @@
 
 const Browse=()=>{
     return(
-<>
-</>
+    <>
+     <h1>Browser</h1>
+    </>
     );
 };
 
