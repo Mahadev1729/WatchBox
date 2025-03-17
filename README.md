@@ -27,3 +27,4 @@ Steps to creat react app:
       ----Trailer in background
       ----Title and description
          
+DAY 1 complete
