@@ -10,8 +10,10 @@ Currently, two official plugins are available:
 --- this is basically clone of NetflixGPT{Netflix+GPT}
 
 Steps to creat react app:
-   1.cmd:npm creat vite@latest {to integrate vite with react}
+   1.cmd:npm create vite@latest {to integrate vite with react}
    2.cd project_name
    3.npm install 
    4.to run cmd:npm run dev
    
+
+## WatchBox
