@@ -18,9 +18,12 @@ Steps to creat react app:
    
 
 ## features
+---Login/SignUp
+   -Sign in / Sign up form
+   -netflix to browse
 --- Browse{after aunthtication}
    --Header
    --Main Movie
       ----Trailer in background
       ----Title and description
-
+         
