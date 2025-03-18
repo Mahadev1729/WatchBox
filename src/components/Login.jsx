@@ -1,5 +1,9 @@
+import Header from "./Header";
+
 const Login = () => {
     return (
+        <div>
+           <Header/>
         <div className="w-full h-screen flex justify-center items-center overflow-hidden">
             <img 
                 className="max-w-[90%] max-h-[90%] object-contain" 
@@ -7,6 +11,9 @@ const Login = () => {
                 alt="Logo"
             />
         </div>
+
+        </div>
+      
     );
 };
 
